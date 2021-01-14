@@ -1,9 +1,10 @@
-
+body{background-color:#f3f4e3;}
 .contact-info li{float:left; style:none; text-align:center; display:block; padding:30px 50px;}
 .header-title{width:100%; height:50px; line-height:25px; padding-left:50px;}
 header{ background-color:red; width:100%; height:60px; position:fixed;}
 .main{padding-top:80px; padding-left:20px;}
 .photo{float:right; margin-right:200px;}
 .basic img{height:300px; width:200px}
-.Academic{padding:10px;}
+.Academic{padding:10px; height:300px;}
 .basic{height:400px;}
+.skill{height:300px;}
